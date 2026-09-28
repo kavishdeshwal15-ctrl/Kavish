@@ -11,6 +11,9 @@ A simple command-line tool to record, view, and manage daily expenses. Built as 
 To check your Python version, open a terminal and run:
 `python --version` (or `python3 --version`)
 
+## Repository
+GitHub Link: https://github.com/kavishdeshwal15-ctrl/Kavish
+
 ## Setup and Run Instructions
 
 1. Download or clone this repository so you have `expense_tracker.py` in a folder.
